@@ -2,13 +2,13 @@
 
 I am an aspiring Native iOS Engineer
 
-##🔭 I’m currently working on:
+## 🔭 I’m currently working on:
 
 [Senior Capstone Project](https://github.com/isa4ac/Net-Work-Hub)
 
 And other small apps listed in my pins that I am trying to get published to the app store.
 
-##🌱 I’m currently learning:
+## 🌱 I’m currently learning:
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <!--
