@@ -13,5 +13,17 @@ And other small apps listed in my pins that I am trying to get published to the 
 
 
 
-
+<!--
 ## 📫 How to reach me
+
+up work
+https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white
+
+linkedin
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
+leetcode
+https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black
+
+app store profile link
+https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white
