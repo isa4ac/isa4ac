@@ -1,6 +1,6 @@
 <h1 align="Center">Hi there, I'm Isaac <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
-I am an aspiring Native iOS Engineer
+I am an aspiring **Software Engineer** with a focus on **Native iOS Development**
 
 ## 🔭 I’m currently working on
 
