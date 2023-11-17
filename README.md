@@ -1,10 +1,15 @@
-<h1 align="Center">  Hi There, I'm Isaac <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
+<h1 align="Center">Hi there, I'm Isaac <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
+I am an aspiring Native iOS Engineer
+
+##🔭 I’m currently working on:
+![Senior Capstone Project](https://github.com/isa4ac/Net-Work-Hub)
+And other small apps listed in my pins that I am trying to get published to the app store.
+
+##🌱 I’m currently learning:
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <!--
-**isa4ac/isa4ac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
